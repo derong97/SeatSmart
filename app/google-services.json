@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "218855819538",
+    "firebase_url": "https://seatsmart-9ee6f.firebaseio.com",
+    "project_id": "seatsmart-9ee6f",
+    "storage_bucket": "seatsmart-9ee6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218855819538:android:10b454a4975cf5e1014bcb",
+        "android_client_info": {
+          "package_name": "com.example.helloworldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218855819538-phgsu36tv107bhffq519d8e2n5tfn0lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helloworldapp",
+            "certificate_hash": "3e7d0e6bc7f2d5a7a398215bd9ae70e881a4d0dc"
+          }
+        },
+        {
+          "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WUKAPOSETR48QZLlep60F7R1xjayB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218855819538:android:4624d86527355be3014bcb",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218855819538-tk33k5c6tu2hv86lbu7ii88tt5eiali7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpage",
+            "certificate_hash": "63591ce1dde550abb064775a8292fb93269ccbbe"
+          }
+        },
+        {
+          "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WUKAPOSETR48QZLlep60F7R1xjayB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218855819538:android:202a797be134015f014bcb",
+        "android_client_info": {
+          "package_name": "com.example.seatsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218855819538-rilm73035br50gpem1ki7jrladulllgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seatsmart",
+            "certificate_hash": "5a1595c9ef7637e39396000cdeaaef4301b3a400"
+          }
+        },
+        {
+          "client_id": "218855819538-oclp9fuluj61bq1b09c63h2m0pmdjc00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seatsmart",
+            "certificate_hash": "af078e1993665820e2624570f1c27b31b991222a"
+          }
+        },
+        {
+          "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WUKAPOSETR48QZLlep60F7R1xjayB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218855819538-p6pvl9hhnrkgbmu7ne27davp7av4j2vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

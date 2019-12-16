@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeatSmart</string>
+    <string name="defaultString">Write your notes here...</string>
+    <string name="listHeader">Seats to be cleared</string>
+    <string name="occupanyStatus">"Occupancy Status"</string>
+</resources>

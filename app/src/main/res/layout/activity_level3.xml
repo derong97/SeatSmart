@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llLevel3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/seatsmart_lvl3"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_logout"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="658dp"
+        android:layout_marginTop="316dp">
+
+        <TextView
+            android:id="@+id/tvL3S1"
+            android:layout_width="43dp"
+            android:layout_height="38dp"
+            android:textAlignment="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/tvL3S2"
+            android:layout_width="42dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="1dp"
+            android:textAlignment="center"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/tvL3S3"
+            android:layout_width="42dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="-43dp"
+            android:layout_marginTop="39dp"
+            android:textAlignment="center"
+            android:textColor="#000"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnNote"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_action_note_add"/>
+
+    <Button
+        android:id="@+id/btnStatistics"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ic_statsbtn"/>
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnMenuLevel"
+            android:layout_width="71dp"
+            android:layout_height="71dp"
+            android:layout_gravity="right"
+            android:background="@drawable/ic_selectlevelbtn" />
+
+        <ListView
+            android:id="@+id/lvLevel3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
